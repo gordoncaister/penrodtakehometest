@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Style__c</fullName>
+    <externalId>false</externalId>
+    <label>Style</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Abstract Expressionism</fullName>
+                <default>false</default>
+                <label>Abstract Expressionism</label>
+            </value>
+            <value>
+                <fullName>Art Noveau</fullName>
+                <default>false</default>
+                <label>Art Noveau</label>
+            </value>
+            <value>
+                <fullName>Avant-garde</fullName>
+                <default>false</default>
+                <label>Avant-garde</label>
+            </value>
+            <value>
+                <fullName>Baroque</fullName>
+                <default>false</default>
+                <label>Baroque</label>
+            </value>
+            <value>
+                <fullName>Classicism</fullName>
+                <default>false</default>
+                <label>Classicism</label>
+            </value>
+            <value>
+                <fullName>Conceptual Art</fullName>
+                <default>false</default>
+                <label>Conceptual Art</label>
+            </value>
+            <value>
+                <fullName>Constructivism</fullName>
+                <default>false</default>
+                <label>Constructivism</label>
+            </value>
+            <value>
+                <fullName>Cubism</fullName>
+                <default>false</default>
+                <label>Cubism</label>
+            </value>
+            <value>
+                <fullName>Dada / Dadaism</fullName>
+                <default>false</default>
+                <label>Dada / Dadaism</label>
+            </value>
+            <value>
+                <fullName>Expressionism</fullName>
+                <default>false</default>
+                <label>Expressionism</label>
+            </value>
+            <value>
+                <fullName>Fauvism</fullName>
+                <default>false</default>
+                <label>Fauvism</label>
+            </value>
+            <value>
+                <fullName>Futurism</fullName>
+                <default>false</default>
+                <label>Futurism</label>
+            </value>
+            <value>
+                <fullName>Impressionism</fullName>
+                <default>false</default>
+                <label>Impressionism</label>
+            </value>
+            <value>
+                <fullName>Installation Art</fullName>
+                <default>false</default>
+                <label>Installation Art</label>
+            </value>
+            <value>
+                <fullName>Land Art / Earth Art</fullName>
+                <default>false</default>
+                <label>Land Art / Earth Art</label>
+            </value>
+            <value>
+                <fullName>Minimalism</fullName>
+                <default>false</default>
+                <label>Minimalism</label>
+            </value>
+            <value>
+                <fullName>Neo-Impressionalism</fullName>
+                <default>false</default>
+                <label>Neo-Impressionalism</label>
+            </value>
+            <value>
+                <fullName>Neo-Classicism</fullName>
+                <default>false</default>
+                <label>Neo-Classicism</label>
+            </value>
+            <value>
+                <fullName>Performance Art</fullName>
+                <default>false</default>
+                <label>Performance Art</label>
+            </value>
+            <value>
+                <fullName>Pointillism</fullName>
+                <default>false</default>
+                <label>Pointillism</label>
+            </value>
+            <value>
+                <fullName>Pop Art</fullName>
+                <default>false</default>
+                <label>Pop Art</label>
+            </value>
+            <value>
+                <fullName>Post-Impressionism</fullName>
+                <default>false</default>
+                <label>Post-Impressionism</label>
+            </value>
+            <value>
+                <fullName>Rococo</fullName>
+                <default>false</default>
+                <label>Rococo</label>
+            </value>
+            <value>
+                <fullName>Surrealism</fullName>
+                <default>false</default>
+                <label>Surrealism</label>
+            </value>
+            <value>
+                <fullName>Suprematism</fullName>
+                <default>false</default>
+                <label>Suprematism</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
